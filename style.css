@@ -1,0 +1,17 @@
+canvas, html, body {
+  height: 100%;
+  width: auto;
+  background: black;
+  image-rendering: pixelated;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: white;
+  font-family: monospace;
+}
