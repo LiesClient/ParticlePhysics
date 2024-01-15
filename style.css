@@ -8,6 +8,12 @@ canvas, html, body {
   padding: 0;
 }
 
+center {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 p {
   z-index: 10;
   color: white;
