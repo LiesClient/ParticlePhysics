@@ -8,6 +8,10 @@ canvas, html, body {
   padding: 0;
 }
 
+canvas {
+  border: 1px solid white;
+}
+
 center {
   position: absolute;
   left: 0;
